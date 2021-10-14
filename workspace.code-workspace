@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\User\\Ejemplos-C"
+		},
+		{
+			"name": "Ejemplos-C-1",
+			"path": "C:\\Users\\User\\Ejemplos-C-1"
+		}
+	],
+	"settings": {
+		"remote.WSL.useShellEnvironment": false
+	}
+}
