@@ -5,7 +5,7 @@ int main()
     char c;
     printf("Would you like your computer to explode Y/N?");
     c=getchar();
-    if(c=='N')
+    if(c=='N'||c=='n')
     {
         printf("Okay. Phiuuuu!\n");
     }
